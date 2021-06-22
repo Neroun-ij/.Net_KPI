@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<regions>
+  <Region>
+    <Name>Kyiv region</Name>
+    <Regional_center>Kyiv</Regional_center>
+    <Area>28121</Area>
+  </Region>
+  <Region>
+    <Name>Lviv region</Name>
+    <Regional_center>Lviv</Regional_center>
+    <Area>21833</Area>
+  </Region>
+  <Region>
+    <Name>Odessa region</Name>
+    <Regional_center>Odessa</Regional_center>
+    <Area>33314</Area>
+  </Region>
+  <Region>
+    <Name>Kharkiv region</Name>
+    <Regional_center>Kharkiv</Regional_center>
+    <Area>31418</Area>
+  </Region>
+  <Region>
+    <Name>Kharkiv region</Name>
+    <Regional_center>Kharkiv</Regional_center>
+    <Area>31418</Area>
+  </Region>
+</regions>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cities>
+  <City>
+    <Name>Dnipro</Name>
+    <Area>839</Area>
+    <Population>2884000</Population>
+    <Country>Ukraine</Country>
+  </City>
+  <City>
+    <Name>Lviv</Name>
+    <Area>182</Area>
+    <Population>721301</Population>
+    <Country>Ukraine</Country>
+  </City>
+  <City>
+    <Name>Odessa</Name>
+    <Area>162</Area>
+    <Population>993120</Population>
+    <Country>Ukraine</Country>
+  </City>
+  <City>
+    <Name>Kharkiv</Name>
+    <Area>350</Area>
+    <Population>1419000</Population>
+    <Country>Ukraine</Country>
+  </City>
+  <City>
+    <Name>Tartu</Name>
+    <Area>39</Area>
+    <Population>93124</Population>
+    <Country>Estonia</Country>
+  </City>
+  <City>
+    <Name>Tallinn</Name>
+    <Area>159</Area>
+    <Population>426538</Population>
+    <Country>Estonia</Country>
+  </City>
+</cities>

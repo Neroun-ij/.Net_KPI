@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<countries>
+  <Country>
+    <Name>Ukraine</Name>
+    <Continent>Europe</Continent>
+    <Area>603628</Area>
+    <Population>44390000</Population>
+    <Currency>UAN</Currency>
+    <Language>Ukrainian</Language>
+    <Capital>Kyiv</Capital>
+  </Country>
+  <Country>
+    <Name>Estonia</Name>
+    <Continent>Europe</Continent>
+    <Area>45339</Area>
+    <Population>1325000</Population>
+    <Currency>EUR</Currency>
+    <Language>Estonian</Language>
+    <Capital>Tallinn</Capital>
+  </Country>
+  <Country>
+    <Name>Italy</Name>
+    <Continent>Europe</Continent>
+    <Area>301340</Area>
+    <Population>60360000</Population>
+    <Currency>EUR</Currency>
+    <Language>Italian</Language>
+    <Capital>Rome</Capital>
+  </Country>
+</countries>

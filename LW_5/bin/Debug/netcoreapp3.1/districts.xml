@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<districts>
+  <District>
+    <Name>Holosiivskyi</Name>
+    <District_administration_address>Holosiivskyi avenue, 42</District_administration_address>
+    <Area>156.4</Area>
+    <Population>253014</Population>
+    <City>Kyiv</City>
+  </District>
+  <District>
+    <Name>Pechersk</Name>
+    <District_administration_address>M.Omelyanovich-Pavlenko street, 15</District_administration_address>
+    <Area>27</Area>
+    <Population>240000</Population>
+    <City>Kyiv</City>
+  </District>
+  <District>
+    <Name>Obolon</Name>
+    <District_administration_address>Marshal Tymoshenko street, 16</District_administration_address>
+    <Area>110.2</Area>
+    <Population>320000</Population>
+    <City>Kyiv</City>
+  </District>
+  <District>
+    <Name>Podilskiy</Name>
+    <District_administration_address>Contract area, 2</District_administration_address>
+    <Area>34.04</Area>
+    <Population>200617</Population>
+    <City>Kyiv</City>
+  </District>
+  <District>
+    <Name>Galician</Name>
+    <District_administration_address>F.Lista street, 1</District_administration_address>
+    <Area>722</Area>
+    <Population>54900</Population>
+    <City>Lviv</City>
+  </District>
+</districts>
